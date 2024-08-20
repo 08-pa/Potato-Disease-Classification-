@@ -52,5 +52,3 @@ Frameworks and Techniques
 4. **Model Training**: Train a deep learning model using frameworks like TensorFlow or PyTorch.
 5. **Evaluation**: Use evaluation metrics to assess the model’s performance.
 6. **Deployment**: Deploy the model for real-time disease detection using mobile apps or web services.
-
-This approach helps farmers and agricultural experts quickly and accurately diagnose potato diseases, leading to better crop management and reduced losses.
